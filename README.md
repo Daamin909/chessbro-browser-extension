@@ -18,8 +18,7 @@ This app utilises [Stockfish](https://stockfishchess.org) chess engine that grad
 
 ## Installation
 You can install chessbro via chrome webstore in the future. However, for now you can load an unpacked extension into your browser.
-
-
+Update: Added to webstore. Install [here](https://chromewebstore.google.com/detail/chessbro/nebhillhpladhhccgldlmhgcgkmhlgbo).
 ### Game Review - Usage
 
 Copy and paste your chess game's PGN file and hit analyse.
